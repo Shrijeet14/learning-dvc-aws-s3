@@ -1,0 +1,4 @@
+[core]
+    remote = devcstore
+['remote "devcstore"']
+    url = s3://learning-dvc-pipelining-with-s3
